@@ -18,7 +18,7 @@ public class AuthenticationToken {
     private String token;
     private LocalDate tokenCreationDate;
 
-    @OneToOne
+    @OneToOne(optional = false)
     @JoinColumn(nullable = false,name = "fk_user_Id")
     private User user;
 

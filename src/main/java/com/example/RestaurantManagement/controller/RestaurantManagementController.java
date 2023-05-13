@@ -1,6 +1,5 @@
 package com.example.RestaurantManagement.controller;
 
-import com.example.RestaurantManagement.model.Restaurant;
 import com.example.RestaurantManagement.model.RestaurantManagement;
 import com.example.RestaurantManagement.service.RestaurantManagementService;
 import org.springframework.beans.factory.annotation.Autowired;
