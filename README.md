@@ -1,13 +1,17 @@
 <h1 align="center"> 
 Restaurant Management</h1>
+
 * This repository contains the code for a Restaurant Management System. The system includes functionality for managing restaurants, as well as for user authentication and authorization.
+
 * The restaurant management system is a web-based application that uses Spring Boot. It 
 helps streamline restaurant data management and provides an easy-to-use interface for 
 restaurant managers to manage food item details and other information. The application 
 also allows restaurants to view and update their personal details
+
 * Implemented CRUD operations with data validation, MySQL database configuration, 
 Swagger integration, authentication and established table relationships, authentication 
 using “MD-5” algorithm
+
 * Tech stack used: Spring Boot, Hibernate, MySQL, OOPs, Postman, Swagger, and Java
 >### Prerequisites
 * ![MySql](https://img.shields.io/badge/DBMS-MYSQL%205.7%20or%20Higher-red)
